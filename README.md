@@ -1,3 +1,6 @@
 # Deep Learning
 
-Deep Learning Specialization
+Neural Network Implemented From Scratch
+- Logistic Regression (Cat Classifier)
+- One Hidden Layer Neural Net
+- Deep Neural Net (Cat Classifier)
