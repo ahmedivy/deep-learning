@@ -2,7 +2,7 @@
 
 > My solution for DeepLearning Specialiazation by Stanford
 
-## Course 1 (NN and Deep Learning)
+## Course 1 (NNs and Deep Learning)
 
 - Logistic Regression (Cat Classifier)
 - One Hidden Layer Neural Net
