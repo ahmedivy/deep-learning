@@ -2,13 +2,13 @@
 
 > My solutions and notes for Deep Learning Specialization by Stanford
 
-## 1. NNs and Deep Learning
+## 1. [NNs and Deep Learning](https://github.com/ahmedivy/deep-learning/blob/main/Notes/Personal/NNs%20and%20Deep%20Learning.md)
 
 - Logistic Regression
 - Single Hidden Layer Neural Net
 - Deep Neural Net
 
-## 2. Improving Deep NNs
+## 2. [Improving Deep NNs](https://github.com/ahmedivy/deep-learning/blob/main/Notes/Personal/Improving%20Deep%20NNs.md)
 
 - Regularization
 - Initialization
