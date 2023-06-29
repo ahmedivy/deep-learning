@@ -2,13 +2,13 @@
 
 > My solutions and notes for Deep Learning Specialization by Stanford
 
-## Course 1 (NNs and Deep Learning)
+## 1. NNs and Deep Learning
 
 - Logistic Regression
 - Single Hidden Layer Neural Net
 - Deep Neural Net
 
-## Course 2 (Improving Deep NNs)
+## 2. Improving Deep NNs
 
 - Regularization
 - Initialization
