@@ -14,6 +14,6 @@
 - Initialization
 - Gradient Checking
 - Optimization (Mini-batch, RMSProps, GD with Momentum, Adam)
-- Batch Norm
+- Batch Norm ([Andrej Karpathy's Video](https://www.youtube.com/watch?v=P6sfmUTpUmc&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=4))
 - Hyperparameters Tuning
 - Tensorflow
