@@ -1,6 +1,6 @@
-# Deep Learning
+# Deep Learning 🧠
 
-> My solution for DeepLearning Specialiazation by Stanford
+> My solution for Deep Learning Specialiazation by Stanford
 
 ## Course 1 (NNs and Deep Learning)
 
@@ -13,4 +13,4 @@
 - Regularization
 - Initialization
 - Gradient Checking
-- Optimization (Mini-batch, RMSProps, GD with Momentum)
+- Optimization (Mini-batch, RMSProps, GD with Momentum, Adam)
