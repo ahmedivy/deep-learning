@@ -14,4 +14,6 @@
 - Initialization
 - Gradient Checking
 - Optimization (Mini-batch, RMSProps, GD with Momentum, Adam)
+- Batch Norm
+- Hyperparameters Tuning
 - Tensorflow
