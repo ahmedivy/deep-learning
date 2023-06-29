@@ -4,9 +4,9 @@
 
 ## Course 1 (NNs and Deep Learning)
 
-- Logistic Regression (Cat Classifier)
-- One Hidden Layer Neural Net
-- Deep Neural Net (Cat Classifier)
+- Logistic Regression
+- Single Hidden Layer Neural Net
+- Deep Neural Net
 
 ## Course 2 (Improving Deep NNs)
 
@@ -14,3 +14,4 @@
 - Initialization
 - Gradient Checking
 - Optimization (Mini-batch, RMSProps, GD with Momentum, Adam)
+- Tensorflow
