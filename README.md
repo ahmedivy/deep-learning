@@ -1,6 +1,6 @@
 # Deep Learning 🧠
 
-> My solutions and notes for Deep Learning Specialiazation by Stanford
+> My solutions and notes for Deep Learning Specialization by Stanford
 
 ## Course 1 (NNs and Deep Learning)
 
