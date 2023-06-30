@@ -18,6 +18,6 @@
 - Hyperparameters Tuning
 - Tensorflow
 
-## 3. Structuring ML Projects
+## 3. [Structuring ML Projects](https://github.com/ahmedivy/deep-learning/blob/main/Notes/Personal/Structuring%20ML%20Projects.md)
 
 - Orthogonalization
