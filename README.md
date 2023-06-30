@@ -17,3 +17,7 @@
 - Batch Norm ([Andrej Karpathy's Video](https://www.youtube.com/watch?v=P6sfmUTpUmc&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=4))
 - Hyperparameters Tuning
 - Tensorflow
+
+## 3. Structuring ML Projects
+
+- Orthogonalization
