@@ -21,3 +21,13 @@
 ## 3. [Structuring ML Projects](https://github.com/ahmedivy/deep-learning/blob/main/Notes/Personal/Structuring%20ML%20Projects.md)
 
 - Orthogonalization
+- Single Number Evaluation
+- Satisfying and Optimizing Metric
+- Train/Dev/Test Distributions
+- Human Level Performance
+- Avoidable Bias
+- Error Analysis
+- Mismatched Training and Dev/Test Sets
+- Transfer Learning
+- Multitask Learning
+- End-to-end Deep Learning
