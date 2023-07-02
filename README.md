@@ -26,3 +26,8 @@
 - Train/Dev/Test Distributions
 - Human Level Performance
 - Avoidable Bias
+- Error Analysis
+- Mismatched Training and Dev/Test Sets
+- Transfer Learning
+- Multitask Learning
+- End-to-end Deep Learning
