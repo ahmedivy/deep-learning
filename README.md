@@ -31,3 +31,8 @@
 - Transfer Learning
 - Multitask Learning
 - End-to-end Deep Learning
+
+## 4. [Convolutional Neural Nets](https://github.com/mbadry1/DeepLearning.ai-Summary/tree/master/4-%20Convolutional%20Neural%20Networks)
+
+- Edge Detection
+- Padding
