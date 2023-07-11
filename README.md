@@ -36,3 +36,7 @@
 
 - Edge Detection
 - Padding
+- Pooling
+- CNN (from scratch)
+- CNN (using Keras Sequential + Functional API)
+- ResNets
