@@ -40,3 +40,5 @@
 - CNN (from scratch)
 - CNN (using Keras Sequential + Functional API)
 - ResNets
+- MobileNet
+- Efficient Net
