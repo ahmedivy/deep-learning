@@ -42,3 +42,5 @@
 - ResNets
 - MobileNet
 - Efficient Net
+- Object Localization
+- Image Segmentation
