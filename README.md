@@ -44,3 +44,9 @@
 - Efficient Net
 - Object Localization
 - Image Segmentation
+
+## 5. [Sequence Models](https://github.com/mbadry1/DeepLearning.ai-Summary/blob/master/5-%20Sequence%20Models/Readme.md)
+
+- RNN
+- GNU
+- LSTM
