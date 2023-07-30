@@ -50,3 +50,9 @@
 - RNN
 - GNU
 - LSTM
+- Word Embeddings
+- GloVe
+- Negative Sampling
+- Attention Model
+- Audio Dataset
+- Trigger Word Detection
