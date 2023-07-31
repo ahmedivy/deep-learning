@@ -1,6 +1,6 @@
 # Deep Learning 🧠
 
-> My solutions and notes for Deep Learning Specialization by Stanford
+> My solutions and notes for Deep Learning Specialization by Stanford (DeepLearning.ai)
 
 ## 1. [NNs and Deep Learning](https://github.com/ahmedivy/deep-learning/blob/main/Notes/Personal/NNs%20and%20Deep%20Learning.md)
 
@@ -57,3 +57,6 @@
 - Audio Dataset
 - Trigger Word Detection
 - Transformers
+
+## Specialization Certificate
+![certificate](Certificates/Specialization-1.png)
